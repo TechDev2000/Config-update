@@ -1,16 +1,44 @@
 [
   {
-    "name": "Ddghoj😊😊😊",
-    "category": "documentary",
-    "badge": "Docu",
-    "img": "https://i.ibb.co/nN3jGcG5/1.jpg",
-    "link": "g:you "
+    "name": "DW News",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/zfrJ2Xg/20241102-010718.png",
+    "link": "go:DWN"
   },
   {
-    "name": "Bbx",
+    "name": "Al Jazeera",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/7KdMSXv/20241102-010525.png",
+    "link": "go:AlJN"
+  },
+  {
+    "name": "BBC News",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/JmSbxNr/20241102-010634.png",
+    "link": "go:BBCN"
+  },
+  {
+    "name": "Nickelodeon",
     "category": "kids",
     "badge": "Kids",
-    "img": "https://jjfkk",
-    "link": "go:848"
+    "img": "https://i.ibb.co/WvVRfD7/Nickelodeon-1-1-958x575-resized.png",
+    "link": "go:nk"
+  },
+  {
+    "name": "Nick Toons",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/sJsNxzqd/20250914-020158.png",
+    "link": "go:nkt"
+  },
+  {
+    "name": "Nick Jr",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/f5VcB3Y/20260427-044632.png",
+    "link": "go:nkj"
   }
 ]
