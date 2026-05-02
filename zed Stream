@@ -1,1 +1,157 @@
 
+[
+  {
+    "name": "DW News",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/zfrJ2Xg/20241102-010718.png",
+    "link": "go:DWN"
+  },
+  {
+    "name": "Al Jazeera",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/7KdMSXv/20241102-010525.png",
+    "link": "go:AlJN"
+  },
+  {
+    "name": "BBC News",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/JmSbxNr/20241102-010634.png",
+    "link": "go:BBCN"
+  },
+  {
+    "name": "Nickelodeon",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/WvVRfD7/Nickelodeon-1-1-958x575-resized.png",
+    "link": "go:nk"
+  },
+  {
+    "name": "Nick Toons",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/sJsNxzqd/20250914-020158.png",
+    "link": "go:nkt"
+  },
+  {
+    "name": "Nick Jr",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/f5VcB3Y/20260427-044632.png",
+    "link": "go:nkj"
+  },
+  {
+    "name": "Discovery Channel",
+    "category": "documentary",
+    "badge": "Docu",
+    "img": "https://i.ibb.co/fr1rYKG/20241031-022744.png",
+    "link": "go:DSC"
+  },
+  {
+    "name": "MTV",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/sdqSczQp/20250914-003317.png",
+    "link": "go:MTV"
+  },
+  {
+    "name": "Animal Planet",
+    "category": "documentary",
+    "badge": "Docu",
+    "img": "https://i.ibb.co/8dgLsLw/20241031-025401.jpg",
+    "link": "go:Amp1"
+  },
+  {
+    "name": "TLC",
+    "category": "lifestyle",
+    "badge": "Lifestyle",
+    "img": "https://i.ibb.co/zQvXWD3/20241031-074934.png",
+    "link": "go:TLC"
+  },
+  {
+    "name": "TBS",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/gLy9tJQM/20250914-003945.png",
+    "link": "go:TBS"
+  },
+  {
+    "name": "Investigation ID",
+    "category": "documentary",
+    "badge": "Docu",
+    "img": "https://i.ibb.co/HCRtPyg/20241031-080041.png",
+    "link": "go:DID"
+  },
+  {
+    "name": "Discovery Family",
+    "category": "documentary",
+    "badge": "Docu",
+    "img": "https://i.ibb.co/nN3jGcG5/1.jpg",
+    "link": "go:df"
+  },
+  {
+    "name": "BET",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/gFbTFnd3/20250914-004415.png",
+    "link": "go:BET"
+  },
+  {
+    "name": "TRVL Channel",
+    "category": "lifestyle",
+    "badge": "Lifestyle",
+    "img": "https://i.ibb.co/MZ9P5Wg/20241031-082947.png",
+    "link": "go:TRVL"
+  },
+  {
+    "name": "Food Network",
+    "category": "lifestyle",
+    "badge": "Lifestyle",
+    "img": "https://i.ibb.co/jbk2KNS/20241031-083640.png",
+    "link": "go:FDN"
+  },
+  {
+    "name": "History",
+    "category": "documentary",
+    "badge": "Docu",
+    "img": "https://i.ibb.co/pvLc2z9M/20250914-010406.png",
+    "link": "go:HC"
+  },
+  {
+    "name": "HGTV",
+    "category": "lifestyle",
+    "badge": "Lifestyle",
+    "img": "https://i.ibb.co/Kb54FsK/20241031-085351.png",
+    "link": "go:HGTV"
+  },
+  {
+    "name": "USA Network",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/0FJQYpr/20241031-092003.png",
+    "link": "go:USATV"
+  },
+  {
+    "name": "Sky Sports PL",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skys1"
+  },
+  {
+    "name": "Sky Sports FB",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skys2"
+  },
+  {
+    "name": "Sky Sports Action",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skys3"
+  }
+]
