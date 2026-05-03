@@ -215,5 +215,82 @@
     "badge": "Sports",
     "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
     "link": "go:skyc"
+  },
+  {
+    "name": "Sky Cinema Action ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycma"
+  },
+  {
+    "name": "Sky Cinema Comedy ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmc"
+  },
+  {
+    "name": "Sky cinema crime",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmc1"
+  },
+  {
+    "name": "Sky cinema drama",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmd"
+  },
+  {
+    "name": "Sky Cinema Family",
+    "category": "news",
+    "badge": "News",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmf"
+  },
+  {
+    "name": "Sky Cinema  Greats",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmg"
+  },
+  {
+    "name": "Sky cinema hit",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmh"
+  },
+  {
+    "name": "Sky Cinema Premium",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmp"
+  },
+  {
+    "name": "Sky Cinema Sci-fi",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmsf"
+  },
+  {
+    "name": "Sky Cinema Select ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycms"
+  },
+  {
+    "name": "Sky cinema thriller",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmt"
   }
 ]
