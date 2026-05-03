@@ -246,8 +246,8 @@
   },
   {
     "name": "Sky Cinema Family",
-    "category": "news",
-    "badge": "News",
+    "category": "entertainment",
+    "badge": "Entertain",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
     "link": "go:skycmf"
   },
