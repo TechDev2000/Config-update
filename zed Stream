@@ -35,6 +35,13 @@
     "link": "go:nkt"
   },
   {
+    "name": "Sky kids",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/jksz9hsF/Sky-Kids.webp",
+    "link": "go:skyd"
+  },
+  {
     "name": "Nick Jr",
     "category": "kids",
     "badge": "Kids",
@@ -152,5 +159,61 @@
     "badge": "Sports",
     "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
     "link": "go:skys3"
+  },
+  {
+    "name": "Sky Sports Racing",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:sky4"
+  },
+  {
+    "name": "Sky Sports News",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyn"
+  },
+  {
+    "name": "Sky Sports Main Event",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skym"
+  },
+  {
+    "name": "Sky Sports Mix",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skymx"
+  },
+  {
+    "name": "Sky sports NFL",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skynfl"
+  },
+  {
+    "name": "Sky Sports Golf",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyg"
+  },
+  {
+    "name": "Sky Sports F1",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyf1"
+  },
+  {
+    "name": "Sky Sports cricket",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyc"
   }
 ]
