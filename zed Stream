@@ -4,7 +4,8 @@
     "category": "news",
     "badge": "News",
     "img": "https://i.ibb.co/zfrJ2Xg/20241102-010718.png",
-    "link": "go:DWN"
+    "link": "go:DWN",
+    "link2": "go:DWN1"
   },
   {
     "name": "Al Jazeera",
