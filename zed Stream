@@ -1,186 +1,297 @@
 [
   {
-    "name": "Al Jazeera",
-    "category": "news",
-    "badge": "News",
-    "img": "https://i.ibb.co/7KdMSXv/20241102-010525.png",
-    "linkCode1": "go:AlJN",
-    "linkCode2": "go:ghjj"
-  },
-  {
     "name": "DW News",
     "category": "news",
     "badge": "News",
     "img": "https://i.ibb.co/zfrJ2Xg/20241102-010718.png",
-    "linkCode1": "go:DWN",
-    "linkCode2": null
+    "link": "go:DWN"
+"link1": "go:DWN"
   },
   {
-    "name": "Sky News",
+    "name": "Al Jazeera",
     "category": "news",
     "badge": "News",
-    "img": "https://i.ibb.co/LDsPYJSp/1200x630wa.jpg",
-    "linkCode1": "go:skynw",
-    "linkCode2": null
+    "img": "https://i.ibb.co/7KdMSXv/20241102-010525.png",
+    "link": "go:AlJN"
   },
   {
     "name": "BBC News",
     "category": "news",
     "badge": "News",
     "img": "https://i.ibb.co/JmSbxNr/20241102-010634.png",
-    "linkCode1": "go:bbcn1",
-    "linkCode2": null
+    "link": "go:BBCN"
   },
   {
     "name": "Nickelodeon",
     "category": "kids",
     "badge": "Kids",
     "img": "https://i.ibb.co/WvVRfD7/Nickelodeon-1-1-958x575-resized.png",
-    "linkCode1": "go:nk",
-    "linkCode2": null
+    "link": "go:nk"
   },
   {
     "name": "Nick Toons",
     "category": "kids",
     "badge": "Kids",
     "img": "https://i.ibb.co/sJsNxzqd/20250914-020158.png",
-    "linkCode1": "go:nkt",
-    "linkCode2": null
+    "link": "go:nkt"
+  },
+  {
+    "name": "Sky kids",
+    "category": "kids",
+    "badge": "Kids",
+    "img": "https://i.ibb.co/jksz9hsF/Sky-Kids.webp",
+    "link": "go:skyd"
   },
   {
     "name": "Nick Jr",
     "category": "kids",
     "badge": "Kids",
     "img": "https://i.ibb.co/f5VcB3Y/20260427-044632.png",
-    "linkCode1": "go:nkj",
-    "linkCode2": null
+    "link": "go:nkj"
   },
   {
     "name": "Discovery Channel",
     "category": "documentary",
     "badge": "Docu",
     "img": "https://i.ibb.co/fr1rYKG/20241031-022744.png",
-    "linkCode1": "go:DSC",
-    "linkCode2": null
+    "link": "go:DSC"
   },
   {
     "name": "MTV",
     "category": "entertainment",
     "badge": "Entertain",
     "img": "https://i.ibb.co/sdqSczQp/20250914-003317.png",
-    "linkCode1": "go:MTV",
-    "linkCode2": null
+    "link": "go:MTV"
   },
   {
     "name": "Animal Planet",
     "category": "documentary",
     "badge": "Docu",
     "img": "https://i.ibb.co/8dgLsLw/20241031-025401.jpg",
-    "linkCode1": "go:Amp1",
-    "linkCode2": null
+    "link": "go:Amp1"
   },
   {
     "name": "TLC",
     "category": "lifestyle",
     "badge": "Lifestyle",
     "img": "https://i.ibb.co/zQvXWD3/20241031-074934.png",
-    "linkCode1": "go:TLC",
-    "linkCode2": null
+    "link": "go:TLC"
   },
   {
     "name": "TBS",
     "category": "entertainment",
     "badge": "Entertain",
     "img": "https://i.ibb.co/gLy9tJQM/20250914-003945.png",
-    "linkCode1": "go:TBS",
-    "linkCode2": null
+    "link": "go:TBS"
   },
   {
     "name": "Investigation ID",
     "category": "documentary",
     "badge": "Docu",
     "img": "https://i.ibb.co/HCRtPyg/20241031-080041.png",
-    "linkCode1": "go:DID",
-    "linkCode2": null
+    "link": "go:DID"
   },
   {
     "name": "Discovery Family",
     "category": "documentary",
     "badge": "Docu",
     "img": "https://i.ibb.co/nN3jGcG5/1.jpg",
-    "linkCode1": "go:df",
-    "linkCode2": null
+    "link": "go:df"
   },
   {
     "name": "BET",
     "category": "entertainment",
     "badge": "Entertain",
     "img": "https://i.ibb.co/gFbTFnd3/20250914-004415.png",
-    "linkCode1": "go:BET",
-    "linkCode2": null
+    "link": "go:BET"
   },
   {
     "name": "TRVL Channel",
     "category": "lifestyle",
     "badge": "Lifestyle",
     "img": "https://i.ibb.co/MZ9P5Wg/20241031-082947.png",
-    "linkCode1": "go:TRVL",
-    "linkCode2": null
+    "link": "go:TRVL"
   },
   {
     "name": "Food Network",
     "category": "lifestyle",
     "badge": "Lifestyle",
     "img": "https://i.ibb.co/jbk2KNS/20241031-083640.png",
-    "linkCode1": "go:FDN",
-    "linkCode2": null
+    "link": "go:FDN"
   },
   {
     "name": "History",
     "category": "documentary",
     "badge": "Docu",
     "img": "https://i.ibb.co/pvLc2z9M/20250914-010406.png",
-    "linkCode1": "go:HC",
-    "linkCode2": null
+    "link": "go:HC"
   },
   {
     "name": "HGTV",
     "category": "lifestyle",
     "badge": "Lifestyle",
     "img": "https://i.ibb.co/Kb54FsK/20241031-085351.png",
-    "linkCode1": "go:HGTV",
-    "linkCode2": null
+    "link": "go:HGTV"
   },
   {
     "name": "USA Network",
     "category": "entertainment",
     "badge": "Entertain",
     "img": "https://i.ibb.co/0FJQYpr/20241031-092003.png",
-    "linkCode1": "go:USATV",
-    "linkCode2": null
+    "link": "go:USATV"
   },
   {
     "name": "Sky Sports PL",
     "category": "sports",
     "badge": "Sports",
     "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
-    "linkCode1": "go:skys1",
-    "linkCode2": null
+    "link": "go:skys1"
   },
   {
     "name": "Sky Sports FB",
     "category": "sports",
     "badge": "Sports",
     "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
-    "linkCode1": "go:skys2",
-    "linkCode2": null
+    "link": "go:skys2"
   },
   {
     "name": "Sky Sports Action",
     "category": "sports",
     "badge": "Sports",
     "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
-    "linkCode1": "go:skys3",
-    "linkCode2": null
+    "link": "go:skys3"
+  },
+  {
+    "name": "Sky Sports Racing",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:sky4"
+  },
+  {
+    "name": "Sky Sports News",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyn"
+  },
+  {
+    "name": "Sky Sports Main Event",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skym"
+  },
+  {
+    "name": "Sky Sports Mix",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skymx"
+  },
+  {
+    "name": "Sky sports NFL",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skynfl"
+  },
+  {
+    "name": "Sky Sports Golf",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyg"
+  },
+  {
+    "name": "Sky Sports F1",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyf1"
+  },
+  {
+    "name": "Sky Sports cricket",
+    "category": "sports",
+    "badge": "Sports",
+    "img": "https://i.ibb.co/SrxmD2N/skysports-logo-social.png",
+    "link": "go:skyc"
+  },
+  {
+    "name": "Sky Cinema Action ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycma"
+  },
+  {
+    "name": "Sky Cinema Comedy ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmc"
+  },
+  {
+    "name": "Sky cinema crime",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmc1"
+  },
+  {
+    "name": "Sky cinema drama",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmd"
+  },
+  {
+    "name": "Sky Cinema Family",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmf"
+  },
+  {
+    "name": "Sky Cinema  Greats",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmg"
+  },
+  {
+    "name": "Sky cinema hit",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmh"
+  },
+  {
+    "name": "Sky Cinema Premium",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmp"
+  },
+  {
+    "name": "Sky Cinema Sci-fi",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmsf"
+  },
+  {
+    "name": "Sky Cinema Select ",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycms"
+  },
+  {
+    "name": "Sky cinema thriller",
+    "category": "entertainment",
+    "badge": "Entertain",
+    "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
+    "link": "go:skycmt"
   }
 ]
