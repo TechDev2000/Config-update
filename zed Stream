@@ -219,10 +219,11 @@
   },
   {
     "name": "Sky Cinema Action ",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycma"
+    "link": "go:skycma",
+    "link2": ""
   },
   {
     "name": "Sky Cinema Comedy ",
@@ -233,65 +234,74 @@
   },
   {
     "name": "Sky cinema crime",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmc1"
+    "link": "go:skycmc1",
+    "link2": ""
   },
   {
     "name": "Sky cinema drama",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmd"
+    "link": "go:skycmd",
+    "link2": ""
   },
   {
     "name": "Sky Cinema Family",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmf"
+    "link": "go:skycmf",
+    "link2": ""
   },
   {
     "name": "Sky Cinema  Greats",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmg"
+    "link": "go:skycmg",
+    "link2": ""
   },
   {
     "name": "Sky cinema hit",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmh"
+    "link": "go:skycmh",
+    "link2": ""
   },
   {
     "name": "Sky Cinema Premium",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmp"
+    "link": "go:skycmp",
+    "link2": ""
   },
   {
     "name": "Sky Cinema Sci-fi",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmsf"
+    "link": "go:skycmsf",
+    "link2": ""
   },
   {
     "name": "Sky Cinema Select ",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycms"
+    "link": "go:skycms",
+    "link2": ""
   },
   {
     "name": "Sky cinema thriller",
-    "category": "entertainment",
-    "badge": "Entertain",
+    "category": "movies",
+    "badge": "Movies",
     "img": "https://i.ibb.co/Fb7P5zN9/sky-cinema-logo-header-landscape-min.jpg",
-    "link": "go:skycmt"
+    "link": "go:skycmt",
+    "link2": ""
   }
 ]
